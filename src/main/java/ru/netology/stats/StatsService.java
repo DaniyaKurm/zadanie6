@@ -33,6 +33,7 @@ public class StatsService {
     }
      return allMonth;
 }
+
     public int averageSales(int[] sales) {
         int averageSalesMonth
     }
